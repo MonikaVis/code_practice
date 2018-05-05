@@ -6,7 +6,7 @@ class PNCheck {
            int n;
             Scanner in = new Scanner(System.in);
             n = in.nextInt();
-            if(0<n && n<=100000)
+            if(n>0)
             {
                 System.out.print("Positive");
             }
