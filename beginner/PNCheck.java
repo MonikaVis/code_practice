@@ -8,15 +8,15 @@ class PNCheck {
             n = in.nextInt();
             if(n>0)
             {
-                System.out.print("positive");
+                System.out.print("Positive");
             }
             else if(n<0)
             {
-                System.out.print("negative");
+                System.out.print("Negative");
             }
             else
             {
-                System.out.print("zero");
+                System.out.print("Zero");
             }
             
     }
